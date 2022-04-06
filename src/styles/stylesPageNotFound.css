@@ -1,0 +1,27 @@
+/* Page Not Found */
+
+.containerPageNotFound {
+  border: 1px solid #572ee5;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: space-between;
+  padding: 30px;
+  width: 100%;
+}
+
+.containerPageNotFound .linkGoToHome {
+  background-color: #6809e1;
+  border-radius: 10px;
+  color: #ffffff;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  text-decoration-color: none;
+}
+
+.containerPageNotFound .imagePageNotFound {
+  width: 100%;
+}
