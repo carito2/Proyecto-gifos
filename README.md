@@ -5,5 +5,5 @@ Aplicación web destinada a la búsqueda de gifs otorgados por la API de GIFOS, 
 • Consumo de API de GIFOS
 • Maquetación en HTML y CSS
 
-##Ingresa a la aplicación aquí
+## Ingresa a la aplicación aquí
 https://proyecto-gifos-carolinamunoz.netlify.app/
